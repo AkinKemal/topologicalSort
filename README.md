@@ -1,2 +1,2 @@
-# topologicalSort
-Topological Sort
+# topologicalSortAlgorithm
+Topological Sort Algorithm
